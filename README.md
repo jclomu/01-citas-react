@@ -1,4 +1,3 @@
 # React + Vite
 
-Esta es una prueba para actualizar repositorio en gitHub
-
+Se cambio la direcciñon de la carpeta local a la carpeta git
