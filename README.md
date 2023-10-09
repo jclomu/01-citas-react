@@ -36,3 +36,19 @@ Este proyecto de "Control de Pacientes - Veterinaria" tiene como objetivo desarr
 **1.2.0**
 
 Añade los pacientes al state principal
+
+**1.3.0**
+
+
+
+   Aplicación finalizada. 
+
+   Títulos dinámicos al formulario tomando en cuenta si hay pacientes agregados o no.
+
+   Funciones editar y eliminar agregados en el componente de paciente.
+
+   Agrega ventana de seguridad para evitar borrados indeseados.
+
+   Mantiene nuevos registros dentro del localStorage. 
+
+   Botones se hacen grandes al colocar cursor sobre ellos para un  uso más fácil.
